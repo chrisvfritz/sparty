@@ -1,7 +1,7 @@
 {
   "name": "sparty",
   "version": "2.0.0",
-  "description": "Just a function that randomly returns a URL to an image of Sparty",
+  "description": "A function that returns the URL for a random image of Sparty",
   "main": "index.js",
   "author": "Chris Fritz <chrisvfritz@gmail.com>",
   "license": "MIT"
